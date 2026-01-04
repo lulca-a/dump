@@ -7,7 +7,7 @@
 >I made these as a challengAe for my learning journey, I don't even know if someone or even me will use this someday, but do as you may
 
 #LICENSE
->100% Free, copy and paste, do as
+>100% Free, copy and paste, do as you please
 
 #DEVELOPER
 >Luca Salai 
