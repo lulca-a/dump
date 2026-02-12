@@ -1,10 +1,3 @@
-#exercício: contador de ilhas de uma lista 2d
-#ilhas = [[1,1,1,1,0,0],
-#          1,1,1,0,1,0],
-#           0,1,1,0,1,1]]
-#
-# quantidade de ilhas = 1
-
 palavra_secreta = 'palavra'
 palavra_oculta = list('*'*len(palavra_secreta))
 tentativas = 1
